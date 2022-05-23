@@ -48,7 +48,7 @@ public class ChristmasSong {
                     System.out.println("A partridge in a pear tree.");
             }
 
-            System.out.println();
+            System.out.println("");
         }
 
     }
